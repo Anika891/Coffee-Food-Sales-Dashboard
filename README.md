@@ -23,6 +23,7 @@ The dataset used for this project is included in the Excel file titled "Coffee a
 <a href="https://github.com/Anika891/Coffee-Food-Sales-Dashboard/blob/main/coffee%20and%20sales.png">Dataset</a>
 ## Dashboard
 <img width="788" height="527" alt="coffee and sales" src="https://github.com/user-attachments/assets/58250f7f-c635-4b4f-94de-e6762d286413" />
+
 ## Conclusion
 The business is performing well, with Snacks leading in transactions and Desserts generating the highest revenue. However, Coffee Beverages underperform, indicating room for growth through targeted promotions. Cold Drinks also have low revenue despite similar transaction volumes, suggesting potential issues with pricing or product. Fridays see the highest sales, making it a prime day for flash sales, while Mondays show the lowest activity, offering an opportunity for special offers. Yearly trends show steady growth, though February 2023 had a dip, which could be addressed with early-year promotions. Mid-year months maintain strong performance, so planning for these months is crucial. Cities like Chicago, Los Angeles, and New York are key revenue drivers, while Seattle lags behind, needing more focused strategies. Overall, optimizing underperforming categories and targeting specific days and regions could boost both revenue and profitability.
 
